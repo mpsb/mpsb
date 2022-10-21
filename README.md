@@ -1,22 +1,11 @@
-### Hi, Matthew here!
+# Hi, Matthew here!
 
-## 
+Front-end engineer for ⚡[Xccelerate](https://xccelerate.co/en/)⚡ with a passion for creating beautiful user experiences. Because who doesn't want that?
+
+I also run a web / app dev digital agency on the side, [Coded Creative](https://www.thecodedcreative.com/).
+
+When I'm not coding, you can find working out in the gym, playing basketball / flag football, watching NBA games (hoping my fantasy players perform well) or watching YouTube mini-documentaries to keep up with the happenings of the world (because just watching the news is plain boring).
 
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpsb&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=mpsb)
-
-<!--
-**mpsb/mpsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
