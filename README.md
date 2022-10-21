@@ -2,7 +2,7 @@
 
 Front-end engineer for ⚡[Xccelerate](https://xccelerate.co/en/)⚡ with a passion for creating beautiful user experiences. Because who doesn't want that?
 
-I also run a web / app dev digital agency on the side, [Coded Creative](https://www.thecodedcreative.com/).
+I also run a web / app dev digital agency on the side, 🇨 [Coded Creative](https://www.thecodedcreative.com/) 🇨.
 
 When I'm not coding, you can find working out in the gym, playing basketball / flag football, watching NBA games (hoping my fantasy players perform well) or watching YouTube mini-documentaries to keep up with the happenings of the world (because just watching the news is plain boring).
 
