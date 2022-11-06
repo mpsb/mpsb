@@ -9,3 +9,9 @@ When I'm not coding or running the sidebiz, you can find working out in the gym,
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpsb&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=mpsb)
+
+## Certifications
+
+Stuff that I've accumulated learning coding. Most likely due to shiny object syndrome.
+
+[Triplebyte Certified](https://triplebyte.com/tb/matthew-yjl3jnt/certificate)
