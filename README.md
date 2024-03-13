@@ -1,6 +1,6 @@
 # Hi, Matthew here!
 
-Lead front-end engineer for [OK Systems](https://okgrade.com/) with a passion for creating cool products.
+Lead software engineer for [OK Systems](https://okgrade.com/) with a passion for creating cool products.
 
 Currently working on [@skimigrate](https://twitter.com/skimigrate).
 
